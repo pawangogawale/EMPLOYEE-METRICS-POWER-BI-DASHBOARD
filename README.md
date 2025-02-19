@@ -1,5 +1,6 @@
 # EMPLOYEE-METRICS-POWER-BI-DASHBOARD
 
+# Analyzing the Employees data to find Attrition Rate
 
 ![dashboard](https://github.com/pawangogawale/EMPLOYEE-METRICS-POWER-BI-DASHBOARD/blob/main/EMPLOYEE%20METRICS%20DASHBOARD.jpg?raw=true)
 
